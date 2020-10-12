@@ -15,6 +15,9 @@ body {
 .container {
   border: .3rem solid black;
   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
 }
 
 .box {
