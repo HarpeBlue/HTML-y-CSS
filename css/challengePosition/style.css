@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+}
+
+section {
+  width: 500px;
+  margin: 0 auto;
+  background-color: red;
+  border: solid 2px black;
+}
+
+.content {
+  text-align: center;
+  color: white;
+}
+
+div {
+  position: relative;
+  bottom: 30px;
+  background-color: blue;
+  border: solid  2px black;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.title {
+  color: white;
+}
